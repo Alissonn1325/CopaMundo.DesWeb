@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+          background-image: url('https://media.istockphoto.com/id/492684639/pt/foto/bola-de-futebol-em-fundo-preto.jpg?s=170667a&w=0&k=20&c=uAZu8E7EDsQYKwK3v6bJWkLmMoiOu3WH1WcEXR_udls=');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: 100% 100%;
+}
+td {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h3{
+    font-family: 'Roboto Mono', monospace;
+}
